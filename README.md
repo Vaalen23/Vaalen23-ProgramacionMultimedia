@@ -1,2 +1,0 @@
-# Vaalen23-ProgramacionMultimedia
-Repositorio para ProgramacionMultimedia
